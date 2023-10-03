@@ -1,5 +1,3 @@
-Eu gerei um readme explicando o código que você me enviou. Aqui está o markdown que eu criei:
-
 # Contador
 Este é um programa em Java que recebe dois parâmetros inteiros do usuário e imprime os números entre eles. O programa também valida se o primeiro parâmetro é maior que o segundo e lança uma exceção personalizada chamada ParametrosInvalidosException.
 
